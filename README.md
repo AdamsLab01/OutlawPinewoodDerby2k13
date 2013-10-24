@@ -1,4 +1,3 @@
-outlaw-p-derby-2013
-===================
+This sketch was written to control a motorized Pinewood Derby car via IR remote. 
 
-Arduino code that ran my 2013 Outlaw Pinewood Derby car
+For more information see - http://awaitinginspiration.com/2013/04/motorized-pinewood-derby-car-2013/ or ping adam@adambyers.com
