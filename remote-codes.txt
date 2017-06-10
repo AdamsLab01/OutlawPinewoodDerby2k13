@@ -1,0 +1,48 @@
+**APPLE REMOTE**
+
+0x77E1401D = menu button
+
+0x77E1201D = play button
+
+0x77E1D01D = volume up button
+
+0x77E1B01D = volume down button
+
+0x77E1101D = left button
+
+0x77E1E01D = right button
+
+**PLANAR REMOTE**
+
+0x60DF708F = power button
+
+0x60DF22DD = up button
+
+0x60DFB847 = down button
+
+0x60DF38C7 = left button/foward
+
+0x60DF12ED = right button/reverse
+
+0x60DF3AC5 = play button
+
+**KENWOOD REMOTE**
+
+0x9D62C837 = SRC button
+
+0x9D6228D7 = up button
+
+0x9D62A857 = down button
+
+0x9D62E817 = AUD button
+
+0x9D62708F = play/pause button
+
+0x9D62B04F = pad up button
+
+0x9D6230CF = pad down button
+
+0x9D6250AF = pad left button
+
+0x9D62D02F = pad right button
+
